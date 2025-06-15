@@ -1,1 +1,71 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0d0d0d;
+  color: #00ff99;
+  font-family: 'Courier New', monospace;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #00ff99;
+  border-radius: 10px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.profile-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid #00ff99;
+  margin-bottom: 15px;
+}
+
+h1, h2 {
+  color: #00ff99;
+  text-shadow: 0 0 10px #00ff99;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+.skills ul, .projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li, .projects li {
+  margin-bottom: 10px;
+}
+
+.bar {
+  height: 8px;
+  background-color: #00ff99;
+  margin-top: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #00ff99;
+}
+
+.excel { width: 90%; }
+.sql { width: 75%; }
+.python { width: 80%; }
+.tableau { width: 70%; }
+
+.contact p {
+  margin: 5px 0;
+}
 
