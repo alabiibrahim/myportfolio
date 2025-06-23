@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Alabi Ibrahim — Welcome to My Portfolio</h1>
+<h1 align="center">Hi, I'm Alabi Ibrahim — Welcome to My Portfolio</h1>
 
 <p align="center">
   <b>Turning data into insights, and insights into impact.</b><br>
@@ -12,7 +12,7 @@
 
 Hi, I'm **Alabi Ibrahim**, a results-driven **Data Analyst** with a passion for uncovering patterns and telling compelling stories with data. With professional experience at **Accenture** and **Excelerate**, I’ve built end-to-end analytical solutions to help businesses make smarter decisions.
 
-I specialize in data modeling, dashboard design, automation, and presenting insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
+I specialize in Turning Data into Insightful Decisions, data modeling, dashboard design, automation, and presenting insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
 
 ---
 
@@ -36,6 +36,7 @@ I specialize in data modeling, dashboard design, automation, and presenting insi
 - **Microsoft Certified: Power BI Data Analyst Associate**
 - **Google Data Analytics Professional Certificate**
 - **Excelerate Data Analytics Internship Program**
+- **Accenture Job Simulation**
 
 ---
 
@@ -45,10 +46,10 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| - [Pizza Sales Report](https://alabiibrahim.github.io/Pizza-sales-report/) | Interactive Power BI dashboard analyzing sales KPIs, customer trends, and profitability. | Power BI, SQL |
-| - [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Machine learning project using logistic regression to predict churn. | Excel |
-| - [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Designed and visualized relationships between normalized tables using SQL Server. | Power BI, SQL Server |
-| - [Marketing Campaign Performance](https://alabiibrahim.github.io/Marketing-Campaign-Performance-Analysis/) | HR dataset analyzed for employee retention & turnover. | SQL, Power BI |
+| [Pizza Sales Report](https://alabiibrahim.github.io/Pizza-sales-report/) | Interactive Power BI dashboard analyzing sales KPIs, customer trends, and profitability. | Power BI, SQL |
+| [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Machine learning project using logistic regression to predict churn. | Excel |
+| [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Designed and visualized relationships between normalized tables using SQL Server. | Power BI, SQL Server |
+| [Marketing Campaign Performance](https://alabiibrahim.github.io/Marketing-Campaign-Performance-Analysis/) | HR dataset analyzed for employee retention & turnover. | SQL, Power BI |
 
 ---
 
