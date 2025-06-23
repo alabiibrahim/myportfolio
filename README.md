@@ -22,7 +22,7 @@ I specialize in data modeling, dashboard design, automation, and presenting insi
 - **Power BI** (DAX, Visualization)
 - **Tableau** (Visualization, Calculated Fields)
 
-### Soft Skills
+## Soft Skills
 - **Problem Solving**
 - **Critical Thinking**
 - **Effective Communication**
@@ -54,7 +54,7 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 ## 📄 Resume
 
-You can find my full resume [here (PDF)](https://github.com/alabiibrahim/portfolio/blob/main/resume.pdf)
+You can find my full resume [here (PDF)](https://github.com/alabiibrahim/myportfolio/blob/main/Resume/ALABI%20IBRAHIM_Pro%20Resume.pdf)
 
 ---
 
