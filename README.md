@@ -4,8 +4,6 @@
   <b>Turning data into insights, and insights into impact.</b><br>
   <a href="mailto:alabi0147@gmail.com">📧 Email</a> |
   <a href="https://www.linkedin.com/in/alabiibrahim">💼 LinkedIn</a> |
-  <a href="https://alabiibrahim.github.io">🌐 Portfolio Website</a> |
-  <a href="https://github.com/alabiibrahim">🐙 GitHub</a>
 </p>
 
 ---
@@ -47,10 +45,10 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| - [Sales Analysis Dashboard](https://github.com/alabiibrahim/sales-analysis-dashboard) | Interactive Power BI dashboard analyzing sales KPIs, customer trends, and profitability. | Power BI, Excel |
-| - [Customer Churn Prediction](https://github.com/alabiibrahim/customer-churn-prediction) | Machine learning project using logistic regression to predict churn. | Python, Pandas, Scikit-learn |
-| - [SQL Data Modeling Project](https://github.com/alabiibrahim/sql-data-modeling) | Designed and visualized relationships between normalized tables using SQL Server. | SQL Server |
-| - [HR Analytics Dashboard](https://github.com/alabiibrahim/hr-analytics-dashboard) | HR dataset analyzed for employee retention & turnover. | Tableau, Excel |
+| - [Pizza Sales Report](https://alabiibrahim.github.io/Pizza-sales-report/) | Interactive Power BI dashboard analyzing sales KPIs, customer trends, and profitability. | Power BI, SQL |
+| - [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Machine learning project using logistic regression to predict churn. | Excel |
+| - [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Designed and visualized relationships between normalized tables using SQL Server. | Power BI, SQL Server |
+| - [Marketing Campaign Performance](https://alabiibrahim.github.io/Marketing-Campaign-Performance-Analysis/) | HR dataset analyzed for employee retention & turnover. | SQL, Power BI |
 
 ---
 
