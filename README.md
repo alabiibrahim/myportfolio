@@ -10,9 +10,9 @@
 
 ## About Me
 
-Hi, I'm **Alabi Ibrahim**, a results-driven **Data Analyst** with a passion for uncovering patterns and telling compelling stories with data. With professional experience at **Accenture** and **Excelerate**, I’ve built end-to-end analytical solutions to help businesses make smarter decisions.
+I'm a results-driven **Data Analyst** with a passion for uncovering patterns and telling compelling stories with data. With professional experience at **Accenture** and **Excelerate**, I’ve built end-to-end analytical solutions to help businesses make smarter decisions.
 
-I specialize in Turning Data into Insightful Decisions, database design, data modeling, dashboard design, automation, and presenting insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
+I specialize in Turning Data into Insightful Decisions, database design, data modeling, dashboard design, data visualization, automation, and presenting insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
 
 ---
 
