@@ -60,12 +60,7 @@ You can find my full resume [here (PDF)](https://github.com/alabiibrahim/myportf
 
 ---
 
-## 📫 Contact
 
-- 📧 **Email:** [alabiibrahim@email.com](mailto:alabi0147@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/alabiibrahim](https://www.linkedin.com/in/alabiibrahim)
-
----
 
 <p align="center">
   <i>“Without data, you're just another person with an opinion.” — W. Edwards Deming</i>
