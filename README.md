@@ -50,7 +50,8 @@ Here are a few selected projects that showcase my skills in real-world data anal
 | [Sales Call Marketing Center](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/) | Call center data is analyzed to track and evaluate call center agent performance. | Excel |
 | [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Analyzed sales data to track effectiveness. | Excel |
 | [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Designed and visualized road accident datasets to prevent future accidents. | Power BI, SQL Server |
-| [Co-Operative Loan Report](https://alabiibrahim.github.io/Cooperative-Loan-Analysis/) | Loan disbursement analysis. | Excel, Pivot Tables |
+| [Financial Loan Analysis](https://alabiibrahim.github.io/Financial-Loan-Analysis/) | Financial Loan data to monitor and assess our bank's lending activities and performance | SQL, Excel |
+| [Co-Operative Loan Report](https://alabiibrahim.github.io/Cooperative-Loan-Analysis/) | Cooperative Loan disbursement analysis. | Excel, Pivot Tables |
 | [Marketing Campaign Performance](https://alabiibrahim.github.io/Marketing-Campaign-Performance-Analysis/) | Analyzed Marketing dataset to track campaign performance. | SQL, Power BI |
 
 ---
