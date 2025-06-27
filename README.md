@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a results-driven **Data Analyst** with a passion for uncovering patterns and telling compelling stories with data. With professional experience at **Accenture** and **Excelerate**, I’ve built end-to-end analytical solutions to help businesses make smarter decisions.
+I'm a results-driven **Data Analyst** with a passion for uncovering patterns and telling compelling stories with data. With over 1+ year professional experience at **Accenture** and **Excelerate**, I’ve built end-to-end analytical solutions to help businesses make smarter decisions.
 
 I specialize in Turning Data into Insightful Decisions, Database Design, Data Modeling, Dashboard Design, Data Visualization, Automation, and Presenting Insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
 
