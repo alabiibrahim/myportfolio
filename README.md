@@ -3,7 +3,7 @@
 <p align="center">
   <b>Turning data into insights, and insights into impact.</b><br>
   <a href="mailto:alabi0147@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/alabi-ibrahim-73332b236">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/alabi-ibrahim-73332b236">LinkedIn</a> 
 </p>
 
 ---
