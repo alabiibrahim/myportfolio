@@ -70,7 +70,7 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 ## 📄 Resume
 
-You can find my full resume [here (PDF)](Resume/ALABI%20IBRAHIM_Pro%20Resume.pdf)
+You can find my full resume [Here](https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi%20Ibrahim%20Resume.pdf)
 
 ---
 
