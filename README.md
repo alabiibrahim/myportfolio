@@ -14,13 +14,13 @@ I help companies analyze thier data to see what’s working, what’s wasting mo
 
 - I helped a technology company (**Excelerate**) saves 18% cost by analyzing their data and identifying an underperfomring Ad Campaign. 
 
-- I helped a social media client at **Accenture** clean, modeled and analyzed his data to uncover insights into content trends to make strategic decision that save him failure cost. With over 2 years experience of using analytical tools 
-
+- I helped a social media client at **Accenture** clean, modeled and analyzed 7 datasets to uncover insights into content trends to make strategic decision that saved him from high cost of failure.
+  
 - I built a custom dashboard for a client who doesn't have time. Now, he can tell what and what is going on with his business everyweek. 
 
 - I’ve built analytical solutions that help businesses make smarter decisions and also worked on variety of projects.
 
-I specialize in Turning Data into Insightful Decisions, Database Design, Data Modeling, Dashboard Design/ Visualization, Insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
+I specialize in Turning Data into Insightful Decisions, Database Design, Data Modeling, Dashboard Design/ Visualization, Insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals. WIth 2 years of experience.
 
 Tell me what's going on with your business, and I will fix it with data.
 
