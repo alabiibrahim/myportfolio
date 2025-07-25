@@ -10,7 +10,7 @@
 
 ## About Me
 
-I help startup teams analyze their data to see what’s working, what’s wasting money and where to grow. Data isn't just about numbers but turning the numbers into smart decisions your business will need **RIGHT NOW**.
+I help startup teams analyze their data to see what’s working, what’s wasting money and where to grow. Data isn't just about numbers but turning the numbers into smart decisions your business will need **RIGHT NOW**!
 
 - I helped a technology company (**Excelerate**) saves 18% cost by analyzing their data and identifying an underperfomring Ad Campaign. 
 
