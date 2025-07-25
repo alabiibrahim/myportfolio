@@ -10,9 +10,20 @@
 
 ## About Me
 
-I'm a results-driven **Data Analyst** with a passion for uncovering patterns and telling compelling stories with data. With over 2 years experience of using analytical tools (Excel, SQL,Power BI & Tableau) at **Accenture** and **Excelerate**, I’ve built end-to-end analytical solutions to help businesses make smarter decisions.
+I help companies analyze thier data to see what’s working, what’s wasting money and where to grow. Data isn't just about numbers but turning the numbers into smart decisions your business will need **RIGHT NOW**.
 
-I specialize in Turning Data into Insightful Decisions, Database Design, Data Modeling, Dashboard Design, Data Visualization and Presenting Insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
+- I helped a technology company (**Excelerate**) saves 18% cost by analyzing their data and identifying an underperfomring Ad Campaign. 
+
+- I helped a social media client at **Accenture** clean, modeled and analyzed his data to uncover insights into content trends to make strategic decision that save him failure cost. With over 2 years experience of using analytical tools 
+
+- I built a custom dashboard for a client who doesn't have time. Now, he can tell what and what is going on with his business everyweek. 
+
+- I’ve built analytical solutions that help businesses make smarter decisions and also worked on variety of projects.
+
+I specialize in Turning Data into Insightful Decisions, Database Design, Data Modeling, Dashboard Design/ Visualization, Insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals.
+
+Tell me what's going on with your business, and I will fix it with data.
+
 
 ---
 
@@ -47,7 +58,7 @@ Here are a few selected projects that showcase my skills in real-world data anal
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Pizza Sales Report](https://alabiibrahim.github.io/Pizza-sales-report/) | Interactive Power BI dashboard analyzing pizza sales KPIs, best selling and profitability. | Power BI, SQL |
-| [Superstore Sales Report](https://alabiibrahim.github.io/Superstore-Sales-Report/) | These insights led to an actionable plan that grow sales and profit by 20%. | Excel |
+| [Superstore Sales Report](https://alabiibrahim.github.io/Superstore-Sales-Report/) | The report led to an actionable plan that grow sales and profit by 20%. | Excel |
 | [Sales Call Marketing Center](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/) | Call center data is analyzed to track and evaluate call center agent performance. | Excel |
 | [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Designed and visualized road accident datasets to prevent future accidents. | Power BI, SQL Server |
 | [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Analyzed sales data to track effectiveness. | Excel |
@@ -59,7 +70,7 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 ## 📄 Resume
 
-You can find my full resume [here (PDF)](https://github.com/alabiibrahim/myportfolio/blob/main/Resume/ALABI%20IBRAHIM_Pro%20Resume.pdf)
+You can find my full resume [here (PDF)](Resume/ALABI%20IBRAHIM_Pro%20Resume.pdf)
 
 ---
 
