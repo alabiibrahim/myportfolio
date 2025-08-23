@@ -58,9 +58,10 @@ Here are a few selected projects that showcase my skills in real-world data anal
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Pizza Sales Report](https://alabiibrahim.github.io/Pizza-sales-report/) | Interactive Power BI dashboard analyzing pizza sales KPIs, best selling and profitability. | Power BI, SQL |
-| [Superstore Sales Report](https://alabiibrahim.github.io/Superstore-Sales-Report/) | The report led to an actionable plan that grow sales and profit by 20%. | Excel |
+| [Superstore Sales Report](https://alabiibrahim.github.io/Superstore-Sales-Report/) | Increase sales by 20% and YoY profit by 14.2%. | Excel- Power Query |
 | [Sales Call Marketing Center](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/) | Call center data is analyzed to track and evaluate call center agent performance. | Excel |
-| [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Designed and visualized road accident datasets to prevent future accidents. | Power BI, SQL Server |
+| [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Reduce road accidents rate by 13% | Power BI, SQL Server |
+| [Bank Customer Churn Analysis](https://alabiibrahim.github.io/Bank-Churn-Analysis/) | Reduced churn rate by 5 - 8% within 12 months | Excel- Power Query, DAX |
 | [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Analyzed sales data to track effectiveness. | Excel |
 | [Financial Loan Analysis](https://alabiibrahim.github.io/Financial-Loan-Analysis/) | Financial Loan data to monitor and assess our bank's lending activities and performance | SQL, Excel |
 | [Co-Operative Loan Report](https://alabiibrahim.github.io/Cooperative-Loan-Analysis/) | Cooperative Loan disbursement analysis. | Excel, Pivot Tables |
