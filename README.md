@@ -64,7 +64,7 @@ Here are a few selected projects that showcase my skills in real-world data anal
 | [Bank Customer Churn Analysis](https://alabiibrahim.github.io/Bank-Churn-Analysis/) | Reduced churn rate by 5 - 8% within 12 months | Excel- Power Query, DAX |
 | [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Analyzed sales data to track effectiveness. | Excel |
 | [Financial Loan Analysis](https://alabiibrahim.github.io/Financial-Loan-Analysis/) | Financial Loan data to monitor and assess our bank's lending activities and performance | SQL, Excel |
-| [Co-Operative Loan Report](https://alabiibrahim.github.io/Cooperative-Loan-Analysis/) | Cooperative Loan disbursement analysis. | Excel, Pivot Tables |
+| [Business Intelligence Report](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/) | 14.54m in total sales and indicating YoY growth of 14.58%. | Excel- DAX, Power Query |
 | [Marketing Campaign Performance](https://alabiibrahim.github.io/Marketing-Campaign-Performance/) | Analyzed Marketing dataset to track campaign performance. | SQL, Power BI |
 
 ---
