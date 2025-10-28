@@ -59,12 +59,19 @@ Here are a few selected projects that showcase my skills in real-world data anal
 |--------|-------------|-------|
 
 | [Business Intelligence Report](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/) | 14.54m in total sales which indicate YoY growth of 14.58%. | Excel- DAX, Power Query |
+
 | [Pizza Sales Report](https://alabiibrahim.github.io/Pizza-sales-report/) | Interactive Power BI dashboard analyzing pizza sales KPIs, best selling and profitability. | Power BI, SQL |
+
 | [Superstore Sales Report](https://alabiibrahim.github.io/Superstore-Sales-Report/) | Increase sales by 20% and YoY profit by 14.2%. | Excel- Power Query |
+
 | [Sales Call Marketing Center](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/) | Call center data is analyzed to track and evaluate call center agent performance. | Excel |
+
 | [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Reduce road accidents rate by 13% | Power BI, SQL Server |
+
 | [Bank Customer Churn Analysis](https://alabiibrahim.github.io/Bank-Churn-Analysis/) | Reduced churn rate by 5 - 8% within 12 months | Excel- Power Query, DAX |
+
 | [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Analyzed sales data to track effectiveness. | Excel |
+
 | [Marketing Campaign Performance](https://alabiibrahim.github.io/Marketing-Campaign-Performance/) | Analyzed Marketing dataset to track campaign performance. | SQL, Power BI |
 
 ---
