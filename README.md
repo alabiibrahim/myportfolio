@@ -57,7 +57,6 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-
 | [Business Intelligence Report](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/) | 14.54m in total sales which indicate YoY growth of 14.58%. | Excel- DAX, Power Query |
 
 | [Pizza Sales Report](https://alabiibrahim.github.io/Pizza-sales-report/) | Interactive Power BI dashboard analyzing pizza sales KPIs, best selling and profitability. | Power BI, SQL |
