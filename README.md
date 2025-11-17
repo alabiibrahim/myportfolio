@@ -64,7 +64,7 @@ Here are a few selected projects that showcase my skills in real-world data anal
 | [Road Accident Report](https://alabiibrahim.github.io/Road-accident-report/) | Reduce road accidents rate by 13% | Power BI, SQL Server |
 | [Sales Call Marketing Center](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/) | Call center data is analyzed to track and evaluate call center agent performance. | Excel |
 | [Bank Customer Churn Analysis](https://alabiibrahim.github.io/Bank-Churn-Analysis/) | Reduced churn rate by 5 - 8% within 12 months | Excel- Power Query, DAX |
-| [Sales Performance Analysis](https://alabiibrahim.github.io/Sales-Performance-Analysis/) | Analyzed sales data to track effectiveness. | Excel |
+
 
 ---
 
