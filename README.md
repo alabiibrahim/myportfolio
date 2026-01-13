@@ -70,7 +70,6 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -87,6 +86,14 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 Delivered actionable insights on profitability, product segmentation, and geographic performance using advanced visualizations. Achieved a 39.62% gross profit margin and identified a $512K YoY dip with month-by-month breakdowns. Built with precision to support executive decision-making and strategic planning.
 
 [Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
+
+**Bank Financial Loan Intelligence System - Analyzes over $435m in loan | Power BI.**
+![image](photo/FinGIF.gif)
+
+Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M in loan data to monitor portfolio health and borrower risk. By visualizing key metrics like a 13.3% average DTI and identifying Debt Consolidation as the primary loan driver, this project provides actionable insights to improve lending strategies and maintain a 86.2% Good Loan rate.
+
+[Read More](https://alabiibrahim.github.io/Financial-Loan-Analysis-2021/)
+
 
 **Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
 
