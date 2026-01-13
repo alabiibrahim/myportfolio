@@ -95,14 +95,12 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 [Read More](https://alabiibrahim.github.io/Financial-Loan-Analysis-2021/)
 
 
-
 **Industry Standard Database Design - Scalability, Security, Maintainability | SQL (Server).**
 ![image](photo/ERD-%20Screenshot.png)
 
 This project is a complete SQL Server based relational database designed to handle the core backend requirements of a modern digital platform. This database follows industry best practices for security, scalability and maintainability that companies like Google uses.
 
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
-
 
 
 **Sales Marketing Call Center .**
@@ -121,7 +119,7 @@ To identify top-performing product lines, customer segments, and shipping method
 
 
 **Bank Churn Analysis - Reduced churn rate by 5 - 8% within 12 months| Excel (Server).**
-![image](photo/DashboardGIF.png)
+![image](photo/BankChurnGIF.png)
 
 This report analyzes customer churn patterns to identify key drivers influencing attrition across demographics, geography, product usage, and satisfaction levels. The goal is to uncover actionable insights that help reduce customer churn, improve retention, and maximize customer lifetime value.
 
