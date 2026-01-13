@@ -24,12 +24,9 @@ What I help teams do:
 
 If you’re a founder, operations lead, or growth manager who wants better visibility into your business, send me a message - I’ll be happy to review your current reporting setup and suggest improvements.
 
-
 ---
 
 ## Featured Projects
-
----
 
 <!--Section 2: List 3-4 key projects-->
 
@@ -91,21 +88,19 @@ This report analyzes customer churn patterns to identify key drivers influencing
 
 ---
 
-#### Technical Skills 
+#### 🛠 Technical Skills 
 - **SQL** (SSMS)
 - **Excel** (Advance Functions, Power Query, VBA)
 - **Power BI** (DAX, Visualization)
 - **Tableau** (Visualization, Calculated Fields)
 - **Python** (Pandas, Matplotlib)
 
-#### Soft Skills
+#### 🧠 Soft Skills
 - **Problem Solving**
 - **Critical Thinking**
 - **Effective Communication**
 - **Team Collaboration**
 - **Curiosity**
-
----
 
 #### 🎓 Certifications
 
@@ -113,7 +108,6 @@ This report analyzes customer churn patterns to identify key drivers influencing
 - **Google Data Analytics Professional Certificate**
 - **Excelerate Data Analytics Internship Program**
 - **Accenture Job Simulation**
-
 
 
 ### CONTACT DETAILS
