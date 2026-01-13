@@ -120,7 +120,7 @@ To identify top-performing product lines, customer segments, and shipping method
 
 
 **Bank Churn Analysis - Reduced churn rate by 5 - 8% within 12 months| Excel (Server).**
-![image](photo/BankChurnGIF.png)
+![image](photo/BankChurnGIF.gif)
 
 This report analyzes customer churn patterns to identify key drivers influencing attrition across demographics, geography, product usage, and satisfaction levels. The goal is to uncover actionable insights that help reduce customer churn, improve retention, and maximize customer lifetime value.
 
