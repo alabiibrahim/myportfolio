@@ -10,19 +10,19 @@
 
 ## About Me
 
-I help startup teams analyze their data to see what’s working, what’s wasting money and where to grow. Data isn't just about numbers but turning the numbers into smart decisions your business will need **RIGHT NOW**!
+I help startup and growth teams turn messy, scattered data into clear, decision-ready dashboards that reduce costs, improve performance, and uncover growth opportunities.
 
-- I helped a technology company (**Excelerate**) saves 18% cost by analyzing their data and identifying an underperfomring Ad Campaign. 
+Over the last few years, I’ve supported teams at Excelerate, Lloyd’s Banking Group, and Accenture - building reporting systems, analyzing customer behavior, and delivering insights that leaders actually use.
 
-- I helped a social media client at **Accenture** clean, modeled and analyzed 7 datasets to uncover insights into content trends to make strategic decision that saved him from high cost of failure.
-  
-- I built a custom dashboard for a client who doesn't have time. Now, he can tell what and what is going on with his business everyweek. 
+What I help teams do:
 
-- I’ve built analytical solutions that help businesses make smarter decisions and also worked on variety of projects.
+- Eliminate manual Excel reporting
+- Build Power BI & Tableau dashboards for leadership
+- Understand customer behavior & churn
+- Track revenue, costs, and product performance
+- Turn raw data into actionable business decisions
 
-I specialize in Turning Data into Insightful Decisions, Database Design, Data Modeling, Dashboard Design/ Visualization, Insights that drive action. I'm continuously learning and love transforming messy data into beautiful, actionable visuals. WIth 2 years of experience.
-
-Tell me what's going on with your business, and I will fix it with data.
+If you’re a founder, operations lead, or growth manager who wants better visibility into your business, send me a message - I’ll be happy to review your current reporting setup and suggest improvements.
 
 
 ---
@@ -80,9 +80,9 @@ You can find my full resume [Here](https://github.com/alabiibrahim/myportfolio/b
 *A glimpse of some of the projects I've been working on.*
 
 **Business Intelligence Report - Identifying $1.62m in high value growth | Excel.**
-![image](photo/Business%20IntelligenceGIF.gif)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
+![image](photo/Business%20IntelligenceGIF.gif)
 
 
 [Read More](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/)
@@ -93,10 +93,21 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
 [Read More](https://alabiibrahim.github.io/Superstore-Sales-Report/)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
 [Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 [ReadMore](https://alabiibrahim.github.io/Bank-Churn-Analysis/)
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+![image](3 anietie etuk data analytics agro project.jpg)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
@@ -130,7 +141,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/alabi-ibrahim-73332b236">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
