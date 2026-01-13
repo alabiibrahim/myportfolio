@@ -72,6 +72,73 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 You can find my full resume [Here](https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi%20Ibrahim.pdf)
 
+
+
+<!--Section 2: List 3-4 key projects-->
+## MY PORTFOLIO 
+
+*A glimpse of some of the projects I've been working on.*
+
+**Business Intelligence Report.**
+![image](1 anietie etuk data analytics car project.jpeg)
+
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+
+[Read More](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/)
+
+**Superstore sales Report.**
+
+![image](2 anietie etuk data analytics sales project.jpg)
+
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+
+[Read More](https://alabiibrahim.github.io/Superstore-Sales-Report/)
+[Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
+[ReadMore](https://alabiibrahim.github.io/Bank-Churn-Analysis/)
+[Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+![image](3 anietie etuk data analytics agro project.jpg)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:alabi0147@gmail.com">alabi0147@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 0902-7929-795</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Lagos, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi%20Ibrahim.pdf">My Resume</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 
