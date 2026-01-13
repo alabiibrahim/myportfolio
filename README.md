@@ -97,7 +97,7 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 
 **Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](photo/DashboardGIF.gif)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
@@ -107,14 +107,16 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-[Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
+
 [ReadMore](https://alabiibrahim.github.io/Bank-Churn-Analysis/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
+**Sales Marketing Call Center .**
 ![image](photo/sales%20and%20marketing%20report.gif)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+[Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
+
 
 **Industry Standard Database Design - Scalability, Security, Maintainability | SQL (Server).**
 ![image](photo/ERD-%20Screenshot.png)
