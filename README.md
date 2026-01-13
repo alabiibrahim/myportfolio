@@ -68,11 +68,6 @@ Here are a few selected projects that showcase my skills in real-world data anal
 
 ---
 
-## 📄 Resume
-
-You can find my full resume [Here](https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi%20Ibrahim.pdf)
-
-
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
@@ -80,14 +75,20 @@ You can find my full resume [Here](https://github.com/alabiibrahim/myportfolio/b
 *A glimpse of some of the projects I've been working on.*
 
 **Business Intelligence Report - Identifying $1.62m in high value growth | Excel.**
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
 ![image](photo/Business%20IntelligenceGIF.gif)
 
+I built this interactive dashboard to pinpoint revenue drivers across 300 customers and 50 product lines. Featuring granular weekly distribution and quarterly YoY comparisons, it provides the executive clarity needed to scale the £48.5k average revenue per customer through data-backed inventory and marketing shifts.
 
 [Read More](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/)
 
-**Superstore sales Report.**
+**Plant Co. Performance - $13m revenue tracked across 6 continents | Power BI.**
+![image](photo/PlanGIF.gif)
+
+Delivered actionable insights on profitability, product segmentation, and geographic performance using advanced visualizations. Achieved a 39.62% gross profit margin and identified a $512K YoY dip with month-by-month breakdowns. Built with precision to support executive decision-making and strategic planning.
+
+[Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
+
+**Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
@@ -137,15 +138,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi%20Ibrahim.pdf">My Resume</a></td>
+      <td><a href="https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi%20Ibrahim.pdf">Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/alabi-ibrahim-73332b236">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.linkedin.com/in/alabi-ibrahim-73332b236">LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
