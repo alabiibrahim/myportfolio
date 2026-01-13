@@ -80,7 +80,7 @@ You can find my full resume [Here](https://github.com/alabiibrahim/myportfolio/b
 *A glimpse of some of the projects I've been working on.*
 
 **Business Intelligence Report - Identifying $1.62m in high value growth | Excel.**
-![image](photo/BusinessIntelligenceGIF.gif)
+![image](photo/Business-IntelligenceGIF.gif)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
