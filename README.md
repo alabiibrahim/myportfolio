@@ -87,7 +87,7 @@ Delivered actionable insights on profitability, product segmentation, and geogra
 
 [Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
 
-**Bank Financial Loan Intelligence System - Analyzes over $435m in loan | Power BI.**
+**Bank Financial Loan Intelligence System - Analyzes over $435m in loan | Excel, Power BI.**
 ![image](photo/FinGIF.gif)
 
 Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M in loan data to monitor portfolio health and borrower risk. By visualizing key metrics like a 13.3% average DTI and identifying Debt Consolidation as the primary loan driver, this project provides actionable insights to improve lending strategies and maintain a 86.2% Good Loan rate.
@@ -96,7 +96,6 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 
 
 **Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
-
 ![image](photo/DashboardGIF.gif)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
@@ -106,9 +105,6 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 [Read More](https://alabiibrahim.github.io/Superstore-Sales-Report/)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-
-[ReadMore](https://alabiibrahim.github.io/Bank-Churn-Analysis/)
 
 
 **Sales Marketing Call Center .**
@@ -124,6 +120,14 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 This project is a complete SQL Server based relational database designed to handle the core backend requirements of a modern digital platform. This database follows industry best practices for security, scalability and maintainability that companies like Google uses.
 
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
+
+
+**Bank Churn Analysis | Excel (Server).**
+![image](photo/DashboardGIF.png)
+
+This report analyzes customer churn patterns to identify key drivers influencing attrition across demographics, geography, product usage, and satisfaction levels. The goal is to uncover actionable insights that help reduce customer churn, improve retention, and maximize customer lifetime value.
+
+[ReadMore](https://alabiibrahim.github.io/Bank-Churn-Analysis/)
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
