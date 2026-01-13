@@ -103,10 +103,11 @@ This project is a complete SQL Server based relational database designed to hand
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
 
 
-**Sales Marketing Call Center .**
+**Sales Marketing Call Center.**
 ![image](photo/sales%20and%20marketing%20report.gif)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
 [Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 
 
