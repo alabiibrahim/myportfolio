@@ -10,7 +10,7 @@
 
 ## About Me
 
-I help startup and growth teams turn messy, scattered data into clear, decision-ready dashboards that reduce costs, improve performance, and uncover growth opportunities.
+Im a Data Analyst, I help startup and growth teams turn messy, scattered data into clear, decision-ready dashboards that reduce costs, improve performance, and uncover growth opportunities.
 
 Over the last few years, I’ve supported teams at Excelerate, Lloyd’s Banking Group, and Accenture - building reporting systems, analyzing customer behavior, and delivering insights that leaders actually use.
 
@@ -57,7 +57,7 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 [Read More](https://alabiibrahim.github.io/Financial-Loan-Analysis-2021/)
 
 
-**Industry Standard Database Design - Scalability, Security, Maintainability | SQL (Server).**
+**Industry Standard Database Design - Scalability, Security, Maintainability | SQL (SSMS).**
 ![image](photo/ERD-%20Screenshot.png)
 
 This project is a complete SQL Server based relational database designed to handle the core backend requirements of a modern digital platform. This database follows industry best practices for security, scalability and maintainability that companies like Google uses.
@@ -68,7 +68,7 @@ This project is a complete SQL Server based relational database designed to hand
 **Sales Marketing Call Center - Excel**
 ![image](photo/sales%20and%20marketing%20report.gif)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+To analyze agent performance using a sales call dashboard, identify key trends, improve customer experience, reduce call abandonment, and support data-driven decisions for better sales outcomes.
 
 [Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 
