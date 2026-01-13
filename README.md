@@ -95,24 +95,6 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 [Read More](https://alabiibrahim.github.io/Financial-Loan-Analysis-2021/)
 
 
-**Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
-![image](photo/DashboardGIF.gif)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-[Read More](https://alabiibrahim.github.io/Superstore-Sales-Report/)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-
-**Sales Marketing Call Center .**
-![image](photo/sales%20and%20marketing%20report.gif)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-[Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
-
 
 **Industry Standard Database Design - Scalability, Security, Maintainability | SQL (Server).**
 ![image](photo/ERD-%20Screenshot.png)
@@ -122,7 +104,23 @@ This project is a complete SQL Server based relational database designed to hand
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
 
 
-**Bank Churn Analysis | Excel (Server).**
+
+**Sales Marketing Call Center .**
+![image](photo/sales%20and%20marketing%20report.gif)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+[Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
+
+
+**Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
+![image](photo/DashboardGIF.gif)
+
+To identify top-performing product lines, customer segments, and shipping methods in order to maximize profit growth and streamline sales strategy. 
+
+[Read More](https://alabiibrahim.github.io/Superstore-Sales-Report/)
+
+
+**Bank Churn Analysis - Reduced churn rate by 5 - 8% within 12 months| Excel (Server).**
 ![image](photo/DashboardGIF.png)
 
 This report analyzes customer churn patterns to identify key drivers influencing attrition across demographics, geography, product usage, and satisfaction levels. The goal is to uncover actionable insights that help reduce customer churn, improve retention, and maximize customer lifetime value.
