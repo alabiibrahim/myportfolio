@@ -109,19 +109,19 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 [Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 [ReadMore](https://alabiibrahim.github.io/Bank-Churn-Analysis/)
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+![image](photo/sales%20and%20marketing%20report.gif)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
+**Industry Standard Database Design - Scalability, Security, Maintainability | SQL (Server).**
+![image](photo/ERD-%20Screenshot.png)
+
+This project is a complete SQL Server based relational database designed to handle the core backend requirements of a modern digital platform. This database follows industry best practices for security, scalability and maintainability that companies like Google uses.
+
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
