@@ -10,7 +10,7 @@
 
 ## About Me
 
-Im a Data Analyst, I help startup and growth teams turn messy, scattered data into clear, decision-ready dashboards that reduce costs, improve performance, and uncover growth opportunities.
+I'm a Data Analyst, I help startup and growth teams turn messy, scattered data into clear, decision-ready dashboards that reduce costs, improve performance, and uncover growth opportunities.
 
 Over the last few years, I’ve supported teams at Excelerate, Lloyd’s Banking Group, and Accenture - building reporting systems, analyzing customer behavior, and delivering insights that leaders actually use.
 
@@ -62,10 +62,10 @@ This project is a complete SQL Server based relational database designed to hand
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
 
 
-**Sales Marketing Call Center - Excel**
+**Sales & Marketing Performance Dashboard - To reduce call abandonment by 15% | Excel**
 ![image](photo/sales%20and%20marketing%20report.gif)
 
-To analyze agent performance using a sales call dashboard, identify key trends, improve customer experience, reduce call abandonment, and support data-driven decisions for better sales outcomes.
+Developed a comprehensive call center intelligence dashboard to track 200k+ annual calls. This tool enables real-time monitoring of agent productivity, regional demand, and conversion rates.
 
 [Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 
