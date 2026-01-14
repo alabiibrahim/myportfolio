@@ -91,9 +91,10 @@ This report analyzes customer churn patterns to identify key drivers influencing
 #### 🛠 Technical Skills 
 - **SQL** (SSMS)
 - **Excel** (Advance Functions, Power Query, VBA)
+- **Python** (Pandas, Matplotlib)
 - **Power BI** (DAX, Visualization)
 - **Tableau** (Visualization, Calculated Fields)
-- **Python** (Pandas, Matplotlib)
+
 
 #### 🧠 Soft Skills
 - **Problem Solving**
