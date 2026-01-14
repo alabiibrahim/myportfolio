@@ -54,7 +54,7 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 [Read More](https://alabiibrahim.github.io/Financial-Loan-Analysis-2021/)
 
 
-**Industry Standard Database Design - Scalability, Security, Maintainability | SQL (SSMS).**
+**Industry Database Design - Scalability, Security, Maintainability | SQL (SSMS).**
 ![image](photo/ERD-%20Screenshot.png)
 
 This project is a complete SQL Server based relational database designed to handle the core backend requirements of a modern digital platform. This database follows industry best practices for security, scalability and maintainability that companies like Google uses.
