@@ -126,7 +126,7 @@ This report analyzes customer churn patterns to identify key drivers influencing
     </tr>
     <tr>
       <td>📍</td>
-      <td>Lagos, Nigeria</td>
+      <td>Lagos, Nigeria GMT+1</td>
     </tr>
     <tr>
       <td>⬇️</td>
