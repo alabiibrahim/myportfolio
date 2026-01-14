@@ -62,7 +62,7 @@ This project is a complete SQL Server based relational database designed to hand
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
 
 
-**Sales & Marketing Performance Dashboard - To reduce call abandonment by 15% | Excel**
+**Sales & Marketing Performance Dashboard - Reduced call abandonment by 15% | Excel**
 ![image](photo/sales%20and%20marketing%20report.gif)
 
 Developed a comprehensive call center intelligence dashboard to track 200k+ annual calls. This tool enables real-time monitoring of agent productivity, regional demand, and conversion rates.
