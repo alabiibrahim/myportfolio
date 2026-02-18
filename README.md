@@ -40,7 +40,7 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 [Read More](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/)
 
 
-**Forensic Report: Tenet Rice Homicide - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
+**Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
 ![image](photo/T1.PNG)
 
 The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making.
