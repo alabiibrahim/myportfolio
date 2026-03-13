@@ -139,7 +139,7 @@ This report analyzes customer churn patterns to identify key drivers influencing
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/alabiibrahim/myportfolio/blob/main/photo/Alabi_Ibrahim_Resume.pdf">Resume</a></td>
+      <td><a href="https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi_Ibrahim_Resume.pdf">Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
