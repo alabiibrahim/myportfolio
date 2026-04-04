@@ -71,20 +71,20 @@ This project is a complete SQL Server based relational database designed to hand
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
 
 
-**Sales & Marketing Performance Dashboard - Reduced call abandonment by 15% | Excel**
-![image](photo/sales%20and%20marketing%20report.gif)
-
-Developed a comprehensive call center intelligence dashboard to track 200k+ annual calls. This tool enables real-time monitoring of agent productivity, regional demand, and conversion rates.
-
-[Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
-
-
 **Data Cleaning - Python**
 ![image]([photo/py5.jpeg))
 
 Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and openpyxl. This cleaned data is ready for analysis and machine learning purpose.
 
 [Readmore](https://alabiibrahim.github.io/Cafe_Sales_Refined/)
+
+
+**Sales & Marketing Performance Dashboard - Reduced call abandonment by 15% | Excel**
+![image](photo/sales%20and%20marketing%20report.gif)
+
+Developed a comprehensive call center intelligence dashboard to track 200k+ annual calls. This tool enables real-time monitoring of agent productivity, regional demand, and conversion rates.
+
+[Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 
 
 **Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
