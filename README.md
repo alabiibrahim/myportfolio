@@ -33,6 +33,7 @@ If you’re a founder, operations lead, or growth manager who wants better visib
 *A glimpse of some of the projects I've been working on.*
 
 **Business Intelligence Report - Identifying $1.62m in high value growth | Excel.**
+
 ![image](photo/Business%20IntelligenceGIF.gif)
 
 I built this interactive dashboard to pinpoint revenue drivers across 300 customers and 50 product lines. Featuring granular weekly distribution and quarterly YoY comparisons, it provides the executive clarity needed to scale the £48.5k average revenue per customer through data-backed inventory and marketing shifts.
@@ -41,6 +42,7 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 
 
 **Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
+
 ![image](photo/T1.PNG)
 
 The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making.
@@ -49,6 +51,7 @@ The objective of this forensic report is to systematically analyze physical, dig
 
 
 **Plant Co. Performance - $13m revenue tracked across 6 continents | Power BI.**
+
 ![image](photo/PlanGIF.gif)
 
 Delivered actionable insights on profitability, product segmentation, and geographic performance using advanced visualizations. Achieved a 39.62% gross profit margin and identified a $512K YoY dip with month-by-month breakdowns. Built with precision to support executive decision-making and strategic planning.
@@ -56,6 +59,7 @@ Delivered actionable insights on profitability, product segmentation, and geogra
 [Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
 
 **Bank Financial Loan Intelligence System - Analyzes over $435m in loan | Excel, Power BI.**
+
 ![image](photo/FinGIF.gif)
 
 Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M in loan data to monitor portfolio health and borrower risk. By visualizing key metrics like a 13.3% average DTI and identifying Debt Consolidation as the primary loan driver, this project provides actionable insights to improve lending strategies and maintain a 86.2% Good Loan rate.
@@ -64,6 +68,7 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 
 
 **Industry Database Design - Scalability, Security, Maintainability | SQL (SSMS).**
+
 ![image](photo/ERD-%20Screenshot.png)
 
 This project is a complete SQL Server based relational database designed to handle the core backend requirements of a modern digital platform. This database follows industry best practices for security, scalability and maintainability that companies like Google uses.
@@ -72,6 +77,7 @@ This project is a complete SQL Server based relational database designed to hand
 
 
 **Data Cleaning - Python**
+
 ![image](photo/py5.jpeg)
 
 Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and openpyxl. This cleaned data is ready for analysis and machine learning purpose.
@@ -80,6 +86,7 @@ Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and open
 
 
 **Sales & Marketing Performance Dashboard - Reduced call abandonment by 15% | Excel**
+
 ![image](photo/sales%20and%20marketing%20report.gif)
 
 Developed a comprehensive call center intelligence dashboard to track 200k+ annual calls. This tool enables real-time monitoring of agent productivity, regional demand, and conversion rates.
@@ -88,6 +95,7 @@ Developed a comprehensive call center intelligence dashboard to track 200k+ annu
 
 
 **Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
+
 ![image](photo/DashboardGIF.gif)
 
 To identify top-performing product lines, customer segments, and shipping methods in order to maximize profit growth and streamline sales strategy. 
@@ -96,6 +104,7 @@ To identify top-performing product lines, customer segments, and shipping method
 
 
 **Bank Churn Analysis - Reduced churn rate by 8% within 12 months| Excel.**
+
 ![image](photo/BankChurnGIF.gif)
 
 This report analyzes customer churn patterns to identify key drivers influencing attrition across demographics, geography, product usage, and satisfaction levels. The goal is to uncover actionable insights that help reduce customer churn, improve retention, and maximize customer lifetime value.
