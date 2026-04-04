@@ -82,7 +82,7 @@ This project is a complete SQL Server based relational database designed to hand
 
 Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and openpyxl. This cleaned data is ready for analysis and machine learning purpose.
 
-[Readmore](https://alabiibrahim.github.io/Cafe_Sales_Refined/)
+[Readmore](https://alabiibrahim.github.io/Data-Cleaning---Python/)
 
 
 **Sales & Marketing Performance Dashboard - Reduced call abandonment by 15% | Excel**
