@@ -72,7 +72,7 @@ This project is a complete SQL Server based relational database designed to hand
 
 
 **Data Cleaning - Python**
-![image]([photo/py5.jpeg))
+![image]([photo/py5.jpeg)
 
 Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and openpyxl. This cleaned data is ready for analysis and machine learning purpose.
 
