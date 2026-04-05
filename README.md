@@ -50,7 +50,7 @@ The objective of this forensic report is to systematically analyze physical, dig
 [Read More](https://alabiibrahim.github.io/Forensic-Report-Tenet-Rice-Homicide/)
 
 
-**Plant Co. Performance - $13m revenue tracked across 6 continents | Power BI.**
+**Plant Co. Performance - $13m revenue tracked across 6 continents | Excel, Power BI.**
 
 ![image](photo/PlanGIF.gif)
 
@@ -58,7 +58,7 @@ Delivered actionable insights on profitability, product segmentation, and geogra
 
 [Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
 
-**Bank Financial Loan Intelligence System - Analyzes over $435m in loan | Excel, Power BI.**
+**Bank Financial Loan Intelligence System - Analyzes over $435m in loan | SQL, Power BI.**
 
 ![image](photo/FinGIF.gif)
 
