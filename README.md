@@ -58,13 +58,13 @@ Delivered actionable insights on profitability, product segmentation, and geogra
 
 [Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
 
-**Bank Financial Loan Intelligence System - Analyzes over $435m in loan | SQL, Power BI.**
+**Bank Loan Intelligence System - Analyzes over $435m in loan | SQL, Power BI.**
 
 ![image](photo/FinGIF.gif)
 
 Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M in loan data to monitor portfolio health and borrower risk. By visualizing key metrics like a 13.3% average DTI and identifying Debt Consolidation as the primary loan driver, this project provides actionable insights to improve lending strategies and maintain a 86.2% Good Loan rate.
 
-[Read More](https://alabiibrahim.github.io/Financial-Loan-Analysis-2021/)
+[Read More](https://alabiibrahim.github.io/Bank-Loan-Intelligence-System/)
 
 
 **Industry Database Design - Scalability, Security, Maintainability | SQL (SSMS).**
