@@ -32,7 +32,7 @@ If you’re a founder, operations lead, or growth manager who wants better visib
 
 *A glimpse of some of the projects I've been working on.*
 
-**Real Time Fraud Detection System - Identifying live fraud behavioral patterns .**
+**Real Time Fraud Detection System - Identifying live fraud behavioral patterns.**
 
 ![image](photo/ac7.PNG)
 
