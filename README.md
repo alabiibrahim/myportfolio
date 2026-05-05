@@ -34,7 +34,7 @@ If you’re a founder, operations lead, or growth manager who wants better visib
 
 **Real Time Fraud Detection System - Identifying live fraud behavioral patterns .**
 
-![image](photo/Business%20IntelligenceGIF.gif)
+![image](photo/ac7.PNG)
 
 This project creates a real-time, production-grade fraud detection system from scratch that includes explainability, data streaming, machine learning, graph analysis, and a live analyst dashboard.
 
