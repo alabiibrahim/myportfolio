@@ -32,6 +32,14 @@ If you’re a founder, operations lead, or growth manager who wants better visib
 
 *A glimpse of some of the projects I've been working on.*
 
+**Fraud Detection System - Identifying fraud behavioral patterns .**
+
+![image](photo/Business%20IntelligenceGIF.gif)
+
+This project creates a real-time, production-grade fraud detection system from scratch that includes explainability, data streaming, machine learning, graph analysis, and a live analyst dashboard.
+
+[Read More](https://alabiibrahim.github.io/Real_Time_Fraud_Detection_System/)
+
 **Business Intelligence Report - Identifying $1.62m in high value growth | Excel.**
 
 ![image](photo/Business%20IntelligenceGIF.gif)
