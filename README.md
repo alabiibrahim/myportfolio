@@ -48,6 +48,14 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 
 [Read More](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/)
 
+**Credit Card Fraud Risk Analysis - Uncovers where, when and whom credit card fraud happens most. | SQL & Power BI.**
+
+![image](photo/ccgif.gif)
+
+Power BI dashboard that uncovers where, when, and to whom credit card fraud happens most, turning raw transaction data into clear insights and practical fraud-prevention recommendations.
+
+[Read More](https://alabiibrahim.github.io/Credit-Card-Fraud-Risk-Analysis/)
+
 
 **Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
 
