@@ -42,7 +42,7 @@ This project creates a real-time, production-grade fraud detection system from s
 
 ---
 
-**Marketing A/B Testing - Identifying live fraud behavioral patterns.**
+**Marketing A/B Testing - Ad vs PSA Conversion Analysis.**
 
 ![image](photo/Screenshot_6-7-2026_15385_localhost.jpeg)
 
