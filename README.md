@@ -40,6 +40,14 @@ This project creates a real-time, production-grade fraud detection system from s
 
 [Read More](https://alabiibrahim.github.io/Real_Time_Fraud_Detection_System/)
 
+**Marketing A/B Testing - Identifying live fraud behavioral patterns.**
+
+![image](photo/Screenshot_6-7-2026_15385_localhost.jpeg)
+
+This project creates a real-time, production-grade fraud detection system from scratch that includes explainability, data streaming, machine learning, graph analysis, and a live analyst dashboard.
+
+[Read More](https://alabiibrahim.github.io/Marketing_AB_Testing/)
+
 **Business Intelligence Report - Identifying $1.62m in high value growth | Excel.**
 
 ![image](photo/Business%20IntelligenceGIF.gif)
