@@ -44,7 +44,7 @@ This project creates a real-time, production-grade fraud detection system from s
 
 **Marketing A/B Testing - Ad vs PSA Conversion Analysis.**
 
-![image](photo/Screenshot_6-7-2026_15385_localhost.jpeg)
+![image](photo/Screenshot_6-7-2026_15385_localhost.png)
 
 Analyzed a 588K-user marketing A/B test in SQL/Python; chi-square testing confirmed ads lifted conversion to 2.55% vs. 1.79% control (p<0.005), driving data-backed ad-spend recommendations.
 
