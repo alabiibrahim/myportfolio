@@ -10,19 +10,25 @@
 
 ## About Me
 
-I'm a Data Analyst, I help startup and growth teams turn messy, scattered data into clear, decision-ready dashboards that reduce costs, improve performance, and uncover growth opportunities.
+Data Analyst | Python, SQL, Power BI, Excel | Building real-time fraud systems & BI dashboards that cut risk and lift decisions. Lagos, Nigeria.
 
-Over the last few years, I’ve supported teams at Excelerate, Lloyd’s Banking Group, and Accenture - building reporting systems, analyzing customer behavior, and delivering insights that leaders actually use.
+---
 
-What I help teams do:
+I am a data analyst who turns messy datasets into clear, decision-ready insights for startups and growing teams.
 
-- Eliminate manual Excel reporting
-- Build Power BI & Tableau dashboards for leadership
-- Understand customer behavior & churn
-- Track revenue, costs, and product performance
-- Turn raw data into actionable business decisions
+I work primarily with Python, SQL, Power BI, Excel, and Tableau. My focus sits at the intersection of analysis, modeling, and practical delivery: real-time pipelines, A/B testing, fraud detection, and interactive dashboards that stakeholders actually use.
 
-If you’re a founder, operations lead, or growth manager who wants better visibility into your business, send me a message - I’ll be happy to review your current reporting setup and suggest improvements.
+Recent work includes:
+
+- Designing and shipping a production-style real-time fraud detection system (Kafka, Docker, XGBoost, SHAP, Streamlit) that scored 6.36M transactions at 0.9999 ROC-AUC, 89% precision, 95% recall, and under 50ms latency. Pipeline re-engineering cut processing time 95% and lifted throughput 85%.
+- Leading a full marketing A/B test on 588K+ records that showed a statistically significant 2.55% vs 1.79% conversion lift and guided budget reallocation.
+- Building Power BI fraud and loan intelligence dashboards that surfaced $79.86K in losses, high-risk segments, and portfolio risk metrics for analyst and lender audiences.
+
+Professionally I work as a freelance data analyst supporting a Norway-based retail startup. There I standardized financial datasets (cutting recurring errors ~40%), automated Power BI reporting (improving efficiency ~20%), and delivered sales performance dashboards tied to a 14% year-over-year profit improvement. Earlier I interned with Excelerate, supporting campaign analysis that informed an estimated 18% reduction in underperforming ad spend.
+
+I hold the Google Data Analytics and IBM Data Analyst Professional Certificates and maintain a public portfolio of end-to-end projects.
+
+Open to freelance, contract, and full-time opportunities where clean data and measurable impact matter.
 
 ---
 
