@@ -63,6 +63,7 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 [Read More](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/)
 
 ---
+
 **Credit Card Fraud Risk Analysis - Uncovers where, when and whom credit card fraud happens most. | SQL & Power BI.**
 
 ![image](photo/ccgif.gif)
@@ -72,6 +73,7 @@ Power BI dashboard that uncovers where, when, and to whom credit card fraud happ
 [Read More](https://alabiibrahim.github.io/Credit-Card-Fraud-Risk-Analysis/)
 
 ---
+
 **Plant Co. Performance - $13m revenue tracked across 6 continents | Excel, Power BI.**
 
 ![image](photo/PlanGIF.gif)
@@ -130,6 +132,7 @@ Developed a comprehensive call center intelligence dashboard to track 200k+ annu
 
 [Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 
+---
 
 **Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
 
