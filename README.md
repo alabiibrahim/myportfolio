@@ -24,7 +24,7 @@ Recent work includes:
 - Leading a full marketing A/B test on 588K+ records that showed a statistically significant 2.55% vs 1.79% conversion lift and guided budget reallocation.
 - Building Power BI fraud and loan intelligence dashboards that surfaced $79.86K in losses, high-risk segments, and portfolio risk metrics for analyst and lender audiences.
 
-Professionally I work as a freelance data analyst supporting a Norway-based retail startup. There I standardized financial datasets (cutting recurring errors ~40%), automated Power BI reporting (improving efficiency ~20%), and delivered sales performance dashboards tied to a 14% year-over-year profit improvement. Earlier I interned with Excelerate, supporting campaign analysis that informed an estimated 18% reduction in underperforming ad spend.
+Professionally I work as a freelance data analyst supporting a Norway-based retail startup. There I standardized financial datasets (cutting recurring errors 40%), automated Power BI reporting (improving efficiency 20%), and delivered sales performance dashboards tied to a 14% year-over-year profit improvement. Earlier I interned with Excelerate, supporting campaign analysis that informed an estimated 18% reduction in underperforming ad spend.
 
 I hold the Google Data Analytics and IBM Data Analyst Professional Certificates and maintain a public portfolio of end-to-end projects.
 
@@ -76,6 +76,15 @@ Power BI dashboard that uncovers where, when, and to whom credit card fraud happ
 [Read More](https://alabiibrahim.github.io/Credit-Card-Fraud-Risk-Analysis/)
 
 ---
+**Plant Co. Performance - $13m revenue tracked across 6 continents | Excel, Power BI.**
+
+![image](photo/PlanGIF.gif)
+
+Delivered actionable insights on profitability, product segmentation, and geographic performance using advanced visualizations. Achieved a 39.62% gross profit margin and identified a $512K YoY dip with month-by-month breakdowns. Built with precision to support executive decision-making and strategic planning.
+
+[Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
+
+---
 
 **Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
 
@@ -84,16 +93,6 @@ Power BI dashboard that uncovers where, when, and to whom credit card fraud happ
 The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making.
 
 [Read More](https://alabiibrahim.github.io/Forensic-Report-Tenet-Rice-Homicide/)
-
----
-
-**Plant Co. Performance - $13m revenue tracked across 6 continents | Excel, Power BI.**
-
-![image](photo/PlanGIF.gif)
-
-Delivered actionable insights on profitability, product segmentation, and geographic performance using advanced visualizations. Achieved a 39.62% gross profit margin and identified a $512K YoY dip with month-by-month breakdowns. Built with precision to support executive decision-making and strategic planning.
-
-[Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
 
 ---
 
