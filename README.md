@@ -69,7 +69,7 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 ---
 
 
-**Credit Card Fraud Risk Analysis - Uncovers where, when and whom credit card fraud happens most. SQL & Power BI.**
+**Credit Card Fraud Risk Analysis - Uncovers where, when and whom credit card fraud happens most.**
 
 ![image](photo/ccgif.gif)
 
