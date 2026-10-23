@@ -24,7 +24,7 @@ Professionally I work as a freelance data analyst supporting a Norway-based reta
 
 I hold the Google Data Analytics and IBM Data Analyst Professional Certificates and maintain a public portfolio of end-to-end projects.
 
-Open to freelance, contract, and full-time opportunities where clean data and measurable impact matter.
+Open to freelance, contract, and (remote) full-time opportunities where clean data and measurable impact matter.
 
 ---
 
