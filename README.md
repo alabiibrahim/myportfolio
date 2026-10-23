@@ -139,16 +139,6 @@ To identify top-performing product lines, customer segments, and shipping method
 
 [Read More](https://alabiibrahim.github.io/Superstore-Sales-Report/)
 
-```
-**Bank Churn Analysis - Reduced churn rate by 8% within 12 months| Excel.**
-
-![image](photo/BankChurnGIF.gif)
-
-This report analyzes customer churn patterns to identify key drivers influencing attrition across demographics, geography, product usage, and satisfaction levels. The goal is to uncover actionable insights that help reduce customer churn, improve retention, and maximize customer lifetime value.
-
-[ReadMore](https://alabiibrahim.github.io/Bank-Churn-Analysis/)
-```
-
 ---
 
 #### 🛠 Technical Skills 
