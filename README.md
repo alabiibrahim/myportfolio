@@ -142,7 +142,6 @@ To identify top-performing product lines, customer segments, and shipping method
 
 [Read More](https://alabiibrahim.github.io/Superstore-Sales-Report/)
 
----
 
 #### 🛠 Technical Skills 
 - **SQL** (SSMS)
