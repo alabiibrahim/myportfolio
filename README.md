@@ -57,7 +57,7 @@ Analyzed a 588K-user marketing A/B test in SQL/Python; chi-square testing confir
 
 ---
 
-**Business Intelligence Report - Identifying $1.62m in high value growth | Excel.**
+**Business Intelligence Report - Identifying $1.62m in high value growth.**
 
 ![image](photo/Business%20IntelligenceGIF.gif)
 
@@ -69,7 +69,7 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 ---
 
 
-**Credit Card Fraud Risk Analysis - Uncovers where, when and whom credit card fraud happens most. | SQL & Power BI.**
+**Credit Card Fraud Risk Analysis - Uncovers where, when and whom credit card fraud happens most. SQL & Power BI.**
 
 ![image](photo/ccgif.gif)
 
@@ -77,9 +77,11 @@ Power BI dashboard that uncovers where, when, and to whom credit card fraud happ
 
 [Read More](https://alabiibrahim.github.io/Credit-Card-Fraud-Risk-Analysis/)
 
+
 ---
 
-**Plant Co. Performance - $13m revenue tracked across 6 continents | Excel, Power BI.**
+
+**Plant Co. Performance - $13m revenue tracked across 6 continents.**
 
 ![image](photo/PlanGIF.gif)
 
@@ -91,7 +93,7 @@ Delivered actionable insights on profitability, product segmentation, and geogra
 ---
 
 
-**Bank Loan Intelligence System - Analyzes over $435m in loan | SQL, Power BI.**
+**Bank Loan Intelligence System - Analyzes over $435m in loan.**
 
 ![image](photo/FinGIF.gif)
 
@@ -103,7 +105,7 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 ---
 
 
-**Industry Database Design - Scalability, Security, Maintainability | SQL (SSMS).**
+**Industry Database Design - Scalability, Security, Maintainability.**
 
 ![image](photo/ERD-%20Screenshot.png)
 
@@ -127,7 +129,7 @@ Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and open
 ---
 
 
-**Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
+**Forensic Report - Identified the probable perpetrator of Tenet Rice homicide.**
 
 ![image](photo/T1.PNG)
 
@@ -139,7 +141,7 @@ The objective of this forensic report is to systematically analyze physical, dig
 ---
 
 
-**Sales & Marketing Performance Dashboard - Reduced call abandonment by 15% | Excel**
+**Sales & Marketing Performance Dashboard - Reduced call abandonment by 15%**
 
 ![image](photo/sales%20and%20marketing%20report.gif)
 
@@ -151,7 +153,7 @@ Developed a comprehensive call center intelligence dashboard to track 200k+ annu
 ---
 
 
-**Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
+**Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2%**
 
 ![image](photo/DashboardGIF.gif)
 
