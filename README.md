@@ -86,16 +86,6 @@ Delivered actionable insights on profitability, product segmentation, and geogra
 
 ---
 
-**Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
-
-![image](photo/T1.PNG)
-
-The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making.
-
-[Read More](https://alabiibrahim.github.io/Forensic-Report-Tenet-Rice-Homicide/)
-
----
-
 **Bank Loan Intelligence System - Analyzes over $435m in loan | SQL, Power BI.**
 
 ![image](photo/FinGIF.gif)
@@ -123,6 +113,16 @@ This project is a complete SQL Server based relational database designed to hand
 Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and openpyxl. This cleaned data is ready for analysis and machine learning purpose.
 
 [Readmore](https://alabiibrahim.github.io/Data-Cleaning---Python/)
+
+---
+
+**Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
+
+![image](photo/T1.PNG)
+
+The objective of this forensic report is to systematically analyze physical, digital, and testimonial evidence to reconstruct the events of the Tenet Rice homicide and provide an unbiased foundation for legal and investigative decision-making.
+
+[Read More](https://alabiibrahim.github.io/Forensic-Report-Tenet-Rice-Homicide/)
 
 ---
 
