@@ -10,10 +10,6 @@
 
 ## About Me
 
-Data Analyst | Python, SQL, Power BI, Excel | Building real-time fraud systems & BI dashboards that cut risk and lift decisions. Lagos, Nigeria.
-
----
-
 I am a data analyst who turns messy datasets into clear, decision-ready insights for startups and growing teams.
 
 I work primarily with Python, SQL, Power BI, Excel, and Tableau. My focus sits at the intersection of analysis, modeling, and practical delivery: real-time pipelines, A/B testing, fraud detection, and interactive dashboards that stakeholders actually use.
