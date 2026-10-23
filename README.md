@@ -42,7 +42,9 @@ This project creates a real-time, production-grade fraud detection system from s
 
 [Read More](https://alabiibrahim.github.io/Real_Time_Fraud_Detection_System/)
 
+
 ---
+
 
 **Marketing A/B Testing - Ad vs PSA Conversion Analysis.**
 
@@ -51,6 +53,7 @@ This project creates a real-time, production-grade fraud detection system from s
 Analyzed a 588K-user marketing A/B test in SQL/Python; chi-square testing confirmed ads lifted conversion to 2.55% vs. 1.79% control (p<0.005), driving data-backed ad-spend recommendations.
 
 [Read More](https://alabiibrahim.github.io/Marketing_AB_Testing/)
+
 
 ---
 
@@ -62,7 +65,9 @@ I built this interactive dashboard to pinpoint revenue drivers across 300 custom
 
 [Read More](https://alabiibrahim.github.io/Business-Sales-Intelligence-Report/)
 
+
 ---
+
 
 **Credit Card Fraud Risk Analysis - Uncovers where, when and whom credit card fraud happens most. | SQL & Power BI.**
 
@@ -82,7 +87,9 @@ Delivered actionable insights on profitability, product segmentation, and geogra
 
 [Read More](https://alabiibrahim.github.io/Plant-Co.-Global-Performance/)
 
+
 ---
+
 
 **Bank Loan Intelligence System - Analyzes over $435m in loan | SQL, Power BI.**
 
@@ -92,7 +99,9 @@ Developed a comprehensive Bank Loan Intelligence System that analyzes over $435M
 
 [Read More](https://alabiibrahim.github.io/Bank-Loan-Intelligence-System/)
 
+
 ---
+
 
 **Industry Database Design - Scalability, Security, Maintainability | SQL (SSMS).**
 
@@ -102,7 +111,9 @@ This project is a complete SQL Server based relational database designed to hand
 
 [Read More](https://alabiibrahim.github.io/Industry-Database-Design---SQL/)
 
+
 ---
+
 
 **Data Cleaning - Python**
 
@@ -112,7 +123,9 @@ Cleaned and transform xlsx raw data to csv using Python - pandas, numpy and open
 
 [Readmore](https://alabiibrahim.github.io/Data-Cleaning---Python/)
 
+
 ---
+
 
 **Forensic Report - Identified the probable perpetrator of Tenet Rice homicide | Power BI.**
 
@@ -122,7 +135,9 @@ The objective of this forensic report is to systematically analyze physical, dig
 
 [Read More](https://alabiibrahim.github.io/Forensic-Report-Tenet-Rice-Homicide/)
 
+
 ---
+
 
 **Sales & Marketing Performance Dashboard - Reduced call abandonment by 15% | Excel**
 
@@ -132,7 +147,9 @@ Developed a comprehensive call center intelligence dashboard to track 200k+ annu
 
 [Readmore](https://alabiibrahim.github.io/Sales-Call-Marketing-Center/)
 
+
 ---
+
 
 **Superstore Sales Report - Increase sales by 20% and YoY profit by 14.2% | Excel**
 
