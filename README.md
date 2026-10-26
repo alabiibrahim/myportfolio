@@ -38,7 +38,7 @@ Open to freelance, contract, and (remote) full-time opportunities where clean da
 
 ![image](photo/01.png)
 
-Analyzed and build an interactive Power BI report that shows how a trucking company performs across operations, deliveries, fleet, drivers and safety, and profitability.
+Analyzed and build an interactive Power BI report across 14 tables that shows how a trucking company performs across operations, deliveries, fleet, drivers and safety, and profitability.
 
 [Read More](https://alabiibrahim.github.io/Logistic-Operations-and-Report-Analysis/)
 
