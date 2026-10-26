@@ -36,7 +36,7 @@ Open to freelance, contract, and (remote) full-time opportunities where clean da
 
 **Logistic Operations Analysis & Performance Report**
 
-![image](photo/ac7.PNG)
+![image](photo/01.png)
 
 This project creates a real-time, production-grade fraud detection system from scratch that includes explainability, data streaming, machine learning, graph analysis, and a live analyst dashboard.
 
