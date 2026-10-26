@@ -38,7 +38,7 @@ Open to freelance, contract, and (remote) full-time opportunities where clean da
 
 ![image](photo/01.png)
 
-This project creates a real-time, production-grade fraud detection system from scratch that includes explainability, data streaming, machine learning, graph analysis, and a live analyst dashboard.
+Analyzed and build an interactive Power BI report that shows how a trucking company performs across operations, deliveries, fleet, drivers and safety, and profitability.
 
 [Read More](https://alabiibrahim.github.io/Logistic-Operations-and-Report-Analysis/)
 
