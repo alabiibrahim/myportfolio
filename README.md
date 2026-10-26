@@ -34,6 +34,16 @@ Open to freelance, contract, and (remote) full-time opportunities where clean da
 
 *A glimpse of some of the projects I've been working on.*
 
+**Logistic Operations Analysis & Performance Report**
+
+![image](photo/ac7.PNG)
+
+This project creates a real-time, production-grade fraud detection system from scratch that includes explainability, data streaming, machine learning, graph analysis, and a live analyst dashboard.
+
+[Read More](https://alabiibrahim.github.io/Logistic-Operations-and-Report-Analysis/)
+
+
+
 **Real Time Fraud Detection System - Identifying live fraud behavioral patterns.**
 
 ![image](photo/ac7.PNG)
