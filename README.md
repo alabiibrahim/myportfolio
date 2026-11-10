@@ -214,7 +214,7 @@ To identify top-performing product lines, customer segments, and shipping method
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi_Ibrahim_resume.pdf">Resume</a></td>
+      <td><a href="https://github.com/alabiibrahim/myportfolio/blob/main/Resume/Alabi Ibrahim_resume.pdf">Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
